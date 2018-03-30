@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLLCAEON%2Fgeef.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLLCAEON%2Fgeef?ref=badge_shield)
+
 Geef (Git NIF)
 ================
 
@@ -70,3 +72,7 @@ LICENSE
 ==============
 
 MIT.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLLCAEON%2Fgeef.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLLCAEON%2Fgeef?ref=badge_large)
